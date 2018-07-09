@@ -7,7 +7,7 @@ This repository contains the supporting documents for**Workshop 2  : Hands-on tu
 The organisers will have sent you a username and password. We will use these to connect to the Summer School Server.
 
 ### PC
-We advise you to download [https://mobaxterm.mobatek.net/download-home-edition.html](MobaXTerm), an excellent Linux terminal emulator. If you do not have administrator rights on your computer, download the **Portable** version, otherwise use the **installer**.
+We advise you to download [MobaXTerm](https://mobaxterm.mobatek.net/download-home-edition.html), an excellent Linux terminal emulator. If you do not have administrator rights on your computer, download the **Portable** version, otherwise use the **installer**.
 
 Click on **Session** then **SSH**, then input your credentials:
 * Remote Host: 156.148.14.175
